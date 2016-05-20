@@ -1,0 +1,10 @@
+[25-Oct-2015 20:56:44 America/Detroit] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Encoder/Base64Encoder.php on line 17
+[26-Oct-2015 04:40:24 America/Detroit] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Encoder/Base64Encoder.php on line 17
+[26-Oct-2015 10:43:11 America/Detroit] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Encoder/Base64Encoder.php on line 17
+[26-Oct-2015 16:50:50 America/Detroit] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Encoder/Base64Encoder.php on line 17
+[23-Jan-2016 16:25:26 America/Detroit] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Encoder/Rfc2231Encoder.php on line 17
+[25-Jan-2016 09:33:35 America/Detroit] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Encoder/Rfc2231Encoder.php on line 17
+[26-Jan-2016 03:33:40 America/Detroit] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Encoder/QpEncoder.php on line 19
+[26-Jan-2016 10:35:30 America/Detroit] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Encoder/QpEncoder.php on line 19
+[26-Jan-2016 16:56:15 America/Detroit] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Encoder/QpEncoder.php on line 19
+[26-Jan-2016 22:44:42 America/Detroit] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Encoder/QpEncoder.php on line 19

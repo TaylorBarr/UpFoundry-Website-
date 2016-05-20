@@ -1,0 +1,2 @@
+[08-Feb-2016 13:35:58 America/Detroit] PHP Fatal error:  Interface 'Swift_Mailer_RecipientIterator' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Mailer/ArrayRecipientIterator.php on line 17
+[09-Feb-2016 20:01:30 America/Detroit] PHP Fatal error:  Interface 'Swift_Mailer_RecipientIterator' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Mailer/ArrayRecipientIterator.php on line 17

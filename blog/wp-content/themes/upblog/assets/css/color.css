@@ -1,0 +1,270 @@
+a {
+  color: #373737;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  color: #373737;
+}
+blockquote {
+  color: #373737;
+}
+.form-control:focus,
+input:not([type=submit]):focus,
+textarea:focus {
+  border-color: #373737;
+}
+input[type=submit] {
+  color: #373737;
+}
+input[type=submit] .badge {
+  background-color: #373737;
+}
+input[type=submit]:hover {
+  border-color: #373737;
+}
+.btn {
+  color: #373737;
+}
+.btn:hover {
+  border-color: #373737;
+  color: #373737;
+}
+.btn-default {
+  color: #373737;
+}
+.btn-default .badge {
+  background-color: #373737;
+}
+.btn-primary {
+  color: #373737;
+  border-color: #373737;
+}
+.btn-primary .badge {
+  background-color: #373737;
+}
+.btn-primary:hover {
+  background-color: #373737;
+}
+.btn-success {
+  background-color: #373737;
+  border-color: #373737;
+}
+.btn-success .badge {
+  color: #373737;
+}
+.btn-success:hover {
+  color: #373737;
+}
+.nav-tabs > li > a {
+  color: #373737;
+}
+.nav-tabs > li > a:hover {
+  border-color: #373737;
+}
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+  border-color: #373737;
+}
+.panel-title > a {
+  color: #373737;
+  border-color: #373737;
+  background: #373737;
+}
+.panel-title > a:before {
+  color: #373737;
+}
+.panel-title > a.collapsed {
+  color: #373737;
+}
+.panel-title > a.collapsed:before {
+  color: #373737;
+}
+.social-icons-list ul li a:hover i {
+  color: #373737;
+}
+.owl-imbt .slider-count {
+  color: #373737;
+}
+.owl-imbt .owl-controls {
+  color: #373737;
+}
+.menu-search-container .main-menu ul li a {
+  color: #373737;
+}
+.menu-search-container .subscribe-menu h3 {
+  color: #373737;
+}
+.page-head .page-header .header-content .left-side a:hover {
+  color: #373737;
+}
+.page-head .page-title-or-author {
+  background-color: #373737;
+}
+.page-head .page-title-or-author .btn:hover {
+  color: #373737;
+}
+.page-head.affix .page-header .header-left-js-button .menu-button span,
+.page-head.affix .page-header .header-right-js-button .menu-button span {
+  background: #373737;
+}
+.page-head.affix .page-header .header-right-js-button i {
+  color: #373737;
+}
+.page-head.light .page-header {
+  color: #373737;
+}
+.page-head.light .page-header p,
+.page-head.light .page-header a {
+  color: #373737;
+}
+.page-head.light .page-header .header-left-js-button .menu-button span,
+.page-head.light .page-header .header-right-js-button .menu-button span {
+  background: #373737;
+}
+.page-head.light .page-header .header-content .left-side a {
+  border: 2px solid #373737;
+}
+.page-head.light .page-header .header-content .left-side a:hover {
+  background: #373737;
+}
+.page-head.light .page-header .header-content .right-side .social-icons-list ul li a {
+  border: 1px solid #373737;
+}
+.page-head.light .page-header .header-content .right-side .social-icons-list ul li a i {
+  color: #373737;
+}
+.page-head.light .page-header .header-content .right-side .social-icons-list ul li a:hover {
+  background: #373737;
+}
+.page-head.light .page-title-or-author {
+  color: #373737;
+}
+.page-head.light .page-title-or-author h1,
+.page-head.light .page-title-or-author h3 {
+  color: #373737;
+}
+.page-head.light .page-title-or-author .btn {
+  border-color: #373737;
+  color: #373737;
+}
+.page-head.light .page-title-or-author .btn:hover {
+  background-color: #373737;
+}
+.page-head.light .blog-single-head h1 a {
+  color: #373737;
+}
+.page-head.light .blog-single-head .article-details span,
+.page-head.light .blog-single-head .article-details > a {
+  color: #373737;
+}
+.page-head.light .blog-single-head .article-details span a,
+.page-head.light .blog-single-head .article-details > a a {
+  color: #373737;
+}
+.page-footer-top .subscribe h3 {
+  color: #373737;
+}
+.page-footer-top .widgets-area .widget .tagcloud a:hover {
+  background: #373737;
+  border-color: #373737;
+}
+.page-footer-top .widgets-area .widget ul li:hover:before {
+  background: #373737;
+}
+.page-footer-top .widgets-area .widget ul li:hover a {
+  color: #373737;
+}
+.page-footer-top .widgets-area .widget ul li:hover a:hover {
+  border-bottom: 1px solid #373737;
+}
+.page-footer-bottom {
+  background-color: #373737;
+}
+@media (max-width: 800px) {
+  .page-head.light.affix .page-header .header-left-js-button .menu-button span,
+  .page-head.light.affix .page-header .header-right-js-button .menu-button span {
+    background: #373737;
+  }
+  .page-head.light.affix .page-header .header-right-js-button i {
+    color: #373737;
+  }
+}
+.page-content-inner .facebook-share-cite {
+  background: #373737;
+}
+.page-content-inner .facebook-share-cite:before {
+  border-color: transparent #373737 transparent transparent;
+}
+.comment-container .title-comments {
+  color: #373737;
+}
+.comment-container ul.comments li .comment .right-section .comment-reply-link {
+  color: #373737;
+}
+.comment-container ul.comments li .comment .right-section h1 a {
+  color: #373737;
+}
+.blog-single-head {
+  background: #373737;
+}
+.share-button,
+.download-button {
+  color: #373737;
+}
+.share-button .badge,
+.download-button .badge {
+  background-color: #373737;
+}
+.share-button > span,
+.download-button > span {
+  color: #373737;
+}
+.share-button:hover,
+.download-button:hover,
+.share-button.active,
+.download-button.active {
+  border-color: #373737;
+}
+.posts-list article figure .article-details h2 a {
+  color: #373737;
+}
+.posts-list article:hover figure figcaption {
+  border-color: #373737;
+}
+.posts-list article:hover figure figcaption i {
+  color: #373737;
+}
+.posts-list .more-posts-button li.active a {
+  border-color: #373737;
+}
+@media (max-width: 800px) {
+  .page-content-inner .facebook-share-cite:before {
+    border-color: #373737 transparent transparent transparent;
+  }
+}
+body.menu-is-open .page-head .page-header .header-left-js-button .menu-button span,
+body.menu-is-open-search .page-head .page-header .header-left-js-button .menu-button span,
+body.menu-is-open .page-head .page-header .header-right-js-button .menu-button span,
+body.menu-is-open-search .page-head .page-header .header-right-js-button .menu-button span {
+  background: #373737;
+}
+.menu-search-container .main-menu ul li a:after {
+  background: #fcfe70;
+}
+.page-head.light .page-title-or-author {
+  background-color: #fcfe70;
+}
+.page-head.light .blog-single-head {
+  background-color: #fcfe70;
+}

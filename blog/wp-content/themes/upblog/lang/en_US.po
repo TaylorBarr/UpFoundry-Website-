@@ -1,0 +1,1426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: IMBT\n"
+"POT-Creation-Date: 2015-04-24 21:56+0200\n"
+"PO-Revision-Date: 2015-04-24 21:56+0200\n"
+"Last-Translator: \n"
+"Language-Team: StylishThemes\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/customizer/customizer.php:7
+msgid "Free Gift"
+msgstr ""
+
+#: admin/customizer/customizer.php:14
+msgid "Free Ebook &ldquo;Just Enough Research&rdquo;"
+msgstr ""
+
+#: admin/customizer/customizer.php:15
+msgid ""
+"Download Free &ldquo;Just Enough Research&rdquo; &ndash; An open Internet is "
+"essential to the American economy, increasingly to our very way of lifel "
+"aunching."
+msgstr ""
+
+#: admin/customizer/customizer.php:126
+msgid "Header Options"
+msgstr ""
+
+#: admin/customizer/customizer.php:130
+#: lib/includes/metaboxes/sth_footer_options.php:9
+msgid "Footer Options"
+msgstr ""
+
+#: admin/customizer/customizer.php:134
+msgid "Subscribe Form"
+msgstr ""
+
+#: admin/customizer/customizer.php:139
+msgid "Light Logo"
+msgstr ""
+
+#: admin/customizer/customizer.php:144
+msgid "Dark Logo"
+msgstr ""
+
+#: admin/customizer/customizer.php:149
+msgid "Subscribe Form Call to Action"
+msgstr ""
+
+#: admin/customizer/customizer.php:154
+msgid "Show Subscribe Form in Header"
+msgstr ""
+
+#: admin/customizer/customizer.php:160
+msgid "Show Subscribe Form in Page Footer"
+msgstr ""
+
+#: admin/customizer/customizer.php:166
+msgid "Subscribe Form Image"
+msgstr ""
+
+#: admin/customizer/customizer.php:171
+msgid "Subscribe Form Title"
+msgstr ""
+
+#: admin/customizer/customizer.php:176
+msgid "Subscribe Form Description"
+msgstr ""
+
+#: admin/customizer/customizer.php:181
+msgid "Mailchimp API Key"
+msgstr ""
+
+#: admin/customizer/customizer.php:186
+msgid "Mailchimp List ID"
+msgstr ""
+
+#: admin/customizer/customizer.php:192
+msgid "Thank You Page"
+msgstr ""
+
+#: admin/customizer/customizer.php:197
+msgid "Copyrights"
+msgstr ""
+
+#: admin/importer/import.php:126
+msgid "Please select data to import."
+msgstr ""
+
+#: admin/importer/import.php:137
+msgid "All done. Have fun!"
+msgstr ""
+
+#: admin/importer/parsers.php:42 admin/importer/parsers.php:72
+#: admin/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: admin/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: admin/importer/parsers.php:84 admin/importer/parsers.php:89
+#: admin/importer/parsers.php:279 admin/importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:134
+#: admin/importer/wordpress-importer.php:143
+#: admin/importer/wordpress-importer.php:194
+#: admin/importer/wordpress-importer.php:198
+#: admin/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:511
+#: admin/importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:1033
+msgid "Import WordPress"
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:1040
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:1055
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: admin/importer/wordpress-importer.php:1056
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: admin/metaboxes/meta-box/inc/common.php:53
+msgid "Documentation"
+msgstr ""
+
+#: admin/metaboxes/meta-box/inc/common.php:54
+msgid "Extensions"
+msgstr ""
+
+#: admin/metaboxes/meta-box/inc/field.php:225
+msgid "+"
+msgstr ""
+
+#: admin/metaboxes/meta-box/inc/field.php:235
+msgid "&#8211;"
+msgstr ""
+
+#: admin/metaboxes/meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: admin/metaboxes/meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: admin/metaboxes/meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: admin/metaboxes/meta-box/inc/fields/file-input.php:40
+msgid "Select"
+msgstr ""
+
+#: admin/metaboxes/meta-box/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: admin/metaboxes/meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: admin/metaboxes/meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: admin/metaboxes/meta-box/inc/fields/file.php:98
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: admin/metaboxes/meta-box/inc/fields/image-advanced.php:23
+msgid "Select Images"
+msgstr ""
+
+#: admin/metaboxes/meta-box/inc/fields/map.php:48
+msgid "Find Address"
+msgstr ""
+
+#: admin/metaboxes/meta-box/inc/fields/oembed.php:55
+msgid "Embed HTML not available."
+msgstr ""
+
+#: admin/metaboxes/meta-box/inc/fields/oembed.php:77
+msgid "Preview"
+msgstr ""
+
+#: admin/metaboxes/meta-box/inc/fields/post.php:52
+msgid "Post"
+msgstr ""
+
+#: admin/metaboxes/meta-box/inc/fields/post.php:66
+#: admin/metaboxes/meta-box/inc/fields/taxonomy.php:40
+#: admin/metaboxes/meta-box/inc/fields/user.php:62
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: admin/metaboxes/meta-box/inc/fields/user.php:54
+msgid "User"
+msgstr ""
+
+#: admin/metaboxes/meta-box/inc/meta-box.php:245
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:226
+msgid "Install Required Plugins"
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:227
+msgid "Install Plugins"
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:228
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:229
+msgid "Something went wrong."
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:240
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:241
+msgid "Return to the dashboard"
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:242
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:2054
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:243
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:1740
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:244
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:245
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:589
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:2272
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:1267
+msgid "Private Repository"
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:1270
+msgid "Pre-Packaged"
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:1275
+msgid "WordPress Repository"
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:1278
+msgid "Required"
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:1278
+msgid "Recommended"
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:1281
+msgid "Not Installed"
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:1283
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:1464
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\">Return to the Dashboard</"
+"a>"
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:1480
+msgid "Plugin"
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:1481
+msgid "Source"
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:1482
+msgid "Type"
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:1483
+msgid "Status"
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:1501
+msgid "Install"
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:1502
+msgid "Activate"
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:1613
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:1718
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:2037
+msgid "Install package not available."
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:2038
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:2039
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:2040
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:2041
+msgid "Plugin install failed."
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:2042
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:2053
+msgid "Plugin activation failed."
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:2165
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:2166
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:2170
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:2171
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:2171
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:2178
+msgid "Show Details"
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:2171
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:2178
+msgid "Hide Details"
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:2172
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:2173
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:2177
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:2178
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:2179
+msgid "All installations have been completed."
+msgstr ""
+
+#: admin/require-plugins/tgm/class-tgm-plugin-activation.php:2180
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tcm-theme-lock/admin/class-tcm-theme-lock-admin.php:223
+#: admin/tcm-theme-lock/admin/partials/tcm-theme-lock-admin-display.php:64
+msgid "Register Theme"
+msgstr ""
+
+#: admin/tcm-theme-lock/admin/partials/tcm-theme-lock-admin-display.php:23
+msgid "Theme Registration"
+msgstr ""
+
+#: admin/tcm-theme-lock/admin/partials/tcm-theme-lock-admin-display.php:35
+msgid "Oups! It seems like the details you entered are not correct."
+msgstr ""
+
+#: admin/tcm-theme-lock/admin/partials/tcm-theme-lock-admin-display.php:45
+msgid "Purchase Code"
+msgstr ""
+
+#: admin/tcm-theme-lock/admin/partials/tcm-theme-lock-admin-display.php:55
+msgid "Email Address"
+msgstr ""
+
+#: comments.php:9
+msgid "You cannot access this page directly."
+msgstr ""
+
+#: comments.php:19
+msgid ""
+"This post is password protected. Enter the password to view the comments."
+msgstr ""
+
+#: comments.php:37
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:37 content-featured.php:69 content.php:65 header.php:200
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:37 content-featured.php:70 content.php:66 header.php:201
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:48
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:49
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: content-featured.php:68 content.php:64 header.php:199
+msgid "0 Comments"
+msgstr ""
+
+#: header.php:63 single.php:32
+msgid "loading..."
+msgstr ""
+
+#: header.php:68 single.php:37
+msgid "google+"
+msgstr ""
+
+#: header.php:74 single.php:43
+msgid "twitter"
+msgstr ""
+
+#: header.php:80 single.php:49
+msgid "facebook"
+msgstr ""
+
+#: header.php:86 single.php:55
+msgid "VK"
+msgstr ""
+
+#: header.php:120 header.php:382 pre-footer-subscribe.php:40
+msgid "Subscribe"
+msgstr ""
+
+#: header.php:229
+msgid "Posts by "
+msgstr ""
+
+#: header.php:378 pre-footer-subscribe.php:36
+msgid "Your first name&#8230;"
+msgstr ""
+
+#: header.php:379 pre-footer-subscribe.php:37
+msgid "Your email address&#8230;"
+msgstr ""
+
+#: lib/classes/core-helpers.php:71
+msgid " &laquo; Previous Page"
+msgstr ""
+
+#: lib/classes/core-helpers.php:72
+msgid " Next Page &raquo; "
+msgstr ""
+
+#: lib/classes/core-helpers.php:107
+msgid " by "
+msgstr ""
+
+#: lib/classes/core-helpers.php:138 lib/classes/core-helpers.php:142
+msgid "Posts in "
+msgstr ""
+
+#: lib/classes/core-helpers.php:146
+msgid "Search results for "
+msgstr ""
+
+#: lib/classes/core-helpers.php:301
+msgid "No location found for the entered address."
+msgstr ""
+
+#: lib/classes/core-helpers.php:303
+msgid "Invalid request. Did you enter an address?"
+msgstr ""
+
+#: lib/classes/core-helpers.php:305
+msgid ""
+"Something went wrong while retrieving your map, please ensure you have "
+"entered the short code correctly."
+msgstr ""
+
+#: lib/classes/core-helpers.php:309
+msgid "Unable to contact Google API service."
+msgstr ""
+
+#: lib/classes/core-helpers.php:323
+msgid "tags: "
+msgstr ""
+
+#: lib/classes/core-helpers.php:356
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: lib/classes/imbt-core.php:148
+msgid "read more"
+msgstr ""
+
+#: lib/classes/imbt-core.php:223
+msgid "Main Menu"
+msgstr ""
+
+#: lib/classes/imbt-core.php:224
+msgid "Social"
+msgstr ""
+
+#: lib/classes/imbt-core.php:239
+msgid "Main Sidebar"
+msgstr ""
+
+#: lib/classes/imbt-core.php:241
+msgid "Appears on posts and pages, which has its own widgets"
+msgstr ""
+
+#: lib/classes/imbt-core.php:277
+msgid "Pingback:"
+msgstr ""
+
+#: lib/classes/imbt-core.php:314
+msgid "Reply"
+msgstr ""
+
+#: lib/classes/imbt-core.php:331
+msgid "<i>Your comment is awaiting moderation.</i>"
+msgstr ""
+
+#: lib/classes/imbt-core.php:360
+msgid "LEAVE A REPLY"
+msgstr ""
+
+#: lib/classes/imbt-core.php:361 template-contact.php:164
+msgid "Message *"
+msgstr ""
+
+#: lib/classes/imbt-core.php:381
+msgid "Name "
+msgstr ""
+
+#: lib/classes/imbt-core.php:381 lib/classes/imbt-core.php:384
+msgid "*"
+msgstr ""
+
+#: lib/classes/imbt-core.php:384
+msgid "Email "
+msgstr ""
+
+#: lib/classes/imbt-core.php:388
+msgid "Website "
+msgstr ""
+
+#: lib/classes/visual-composer.php:40
+msgid "IMBT Fullwidth Image & Quote"
+msgstr ""
+
+#: lib/classes/visual-composer.php:43 lib/classes/visual-composer.php:78
+#: lib/classes/visual-composer.php:124
+msgid "IMBT Shortcodes"
+msgstr ""
+
+#: lib/classes/visual-composer.php:44
+msgid "A stylish fullwidth image with a quote above it."
+msgstr ""
+
+#: lib/classes/visual-composer.php:48
+msgid "Image"
+msgstr ""
+
+#: lib/classes/visual-composer.php:50
+msgid "Select the fullwidth background image."
+msgstr ""
+
+#: lib/classes/visual-composer.php:54
+msgid "Content"
+msgstr ""
+
+#: lib/classes/visual-composer.php:56
+msgid ""
+"If you don't add any content here, the widget will display only a static "
+"fullwidth image."
+msgstr ""
+
+#: lib/classes/visual-composer.php:75
+msgid "IMBT Book"
+msgstr ""
+
+#: lib/classes/visual-composer.php:79
+msgid "A stylish book with cover image & purchase info."
+msgstr ""
+
+#: lib/classes/visual-composer.php:83
+msgid "Cover Image"
+msgstr ""
+
+#: lib/classes/visual-composer.php:85
+msgid "Select the book cover image."
+msgstr ""
+
+#: lib/classes/visual-composer.php:89
+msgid "Book Title"
+msgstr ""
+
+#: lib/classes/visual-composer.php:91
+msgid "The title of the book."
+msgstr ""
+
+#: lib/classes/visual-composer.php:95
+msgid "Short Description"
+msgstr ""
+
+#: lib/classes/visual-composer.php:97
+msgid "The book description."
+msgstr ""
+
+#: lib/classes/visual-composer.php:101
+msgid "Button 1"
+msgstr ""
+
+#: lib/classes/visual-composer.php:104 lib/classes/visual-composer.php:111
+msgid ""
+"On the first line the button text, on the second the url of the button and "
+"on the last the Font Awesome icon class."
+msgstr ""
+
+#: lib/classes/visual-composer.php:108
+msgid "Button 2"
+msgstr ""
+
+#: lib/classes/visual-composer.php:121
+msgid "IMBT Button"
+msgstr ""
+
+#: lib/classes/visual-composer.php:125
+msgid "A stylish button."
+msgstr ""
+
+#: lib/classes/visual-composer.php:129
+msgid "Button Type"
+msgstr ""
+
+#: lib/classes/visual-composer.php:132
+msgid "Empty Button with Grey Border"
+msgstr ""
+
+#: lib/classes/visual-composer.php:133
+msgid "Empty Button with Dark Border"
+msgstr ""
+
+#: lib/classes/visual-composer.php:134
+msgid "Full Button"
+msgstr ""
+
+#: lib/classes/visual-composer.php:136
+msgid "Select the type you want."
+msgstr ""
+
+#: lib/classes/visual-composer.php:140
+msgid "Button Size"
+msgstr ""
+
+#: lib/classes/visual-composer.php:143
+msgid "Large"
+msgstr ""
+
+#: lib/classes/visual-composer.php:144
+msgid "Normal"
+msgstr ""
+
+#: lib/classes/visual-composer.php:145
+msgid "Small"
+msgstr ""
+
+#: lib/classes/visual-composer.php:146
+msgid "Extra Small"
+msgstr ""
+
+#: lib/classes/visual-composer.php:148
+msgid "Select the size of the button you want."
+msgstr ""
+
+#: lib/classes/visual-composer.php:152
+msgid "URL"
+msgstr ""
+
+#: lib/classes/visual-composer.php:159
+msgid "Text on the button"
+msgstr ""
+
+#: lib/classes/visual-composer.php:166
+msgid "Open in"
+msgstr ""
+
+#: lib/classes/visual-composer.php:169
+msgid "Same page"
+msgstr ""
+
+#: lib/classes/visual-composer.php:170
+msgid "New tab"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_article_header.php:9
+#: lib/includes/metaboxes/sth_cover_avatar.php:9
+msgid "Page Cover Options"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_article_header.php:17
+msgid "Article title & meta position"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_article_header.php:21
+msgid "Left"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_article_header.php:22
+msgid "Middle"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_article_header.php:28
+msgid "Disable Background?"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_blog_page.php:9
+msgid "Blog Page Options"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_blog_page.php:23
+msgid "Choose Blog Style"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_blog_page.php:27
+msgid "Blog with no featured"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_blog_page.php:28
+msgid "Blog with featured"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_blog_page.php:34
+msgid "Different articles background"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_blog_page.php:39
+msgid "Adds 2 different backgrounds for each article on the blog."
+msgstr ""
+
+#: lib/includes/metaboxes/sth_contact_info.php:9
+msgid "Contact Info"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_contact_info.php:22
+msgid "Contact Address"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_contact_info.php:26
+msgid "You should take this from Google Maps directly."
+msgstr ""
+
+#: lib/includes/metaboxes/sth_contact_info.php:29
+msgid "Contact Email"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_contact_info.php:33
+msgid ""
+"The email address where the messages from the contact page will be sent."
+msgstr ""
+
+#: lib/includes/metaboxes/sth_contact_info.php:36
+msgid "Map Pointer Image"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_contact_info.php:40
+msgid "The pointer image it will be used for the map."
+msgstr ""
+
+#: lib/includes/metaboxes/sth_contact_info.php:43
+msgid "Pointer Box Title"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_contact_info.php:47
+#: lib/includes/metaboxes/sth_contact_info.php:60
+msgid "This will appear when you click on the pointer image."
+msgstr ""
+
+#: lib/includes/metaboxes/sth_contact_info.php:50
+msgid "Pointer Box Description"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_cover_avatar.php:17
+#: lib/includes/metaboxes/sth_portfolio_cover.php:16
+msgid "Cover Type"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_cover_avatar.php:21
+msgid "Avatar"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_cover_avatar.php:22
+msgid "Thick"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_cover_avatar.php:23
+msgid "Page Title"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_cover_avatar.php:29
+msgid "Avatar Image"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_cover_avatar.php:36
+msgid "Heading"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_cover_avatar.php:43
+msgid "More padding bottom"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_cover_avatar.php:48
+msgid ""
+"This is available only on Avatar cover type when you don't have a featured "
+"image."
+msgstr ""
+
+#: lib/includes/metaboxes/sth_cover_avatar.php:53
+msgid "Call to action button"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_cover_avatar.php:58
+msgid "Button Text"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_cover_avatar.php:64
+msgid "Button URL"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_cover_avatar.php:66
+msgid "Place here the url to the author about page or any other url."
+msgstr ""
+
+#: lib/includes/metaboxes/sth_cover_colors.php:9
+msgid "Page Cover Colors"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_cover_colors.php:17
+msgid "Color Scheme"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_cover_colors.php:21
+#: lib/includes/metaboxes/sth_music_single.php:39
+msgid "Light"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_cover_colors.php:22
+#: lib/includes/metaboxes/sth_music_single.php:38
+msgid "Dark"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_cover_colors.php:29
+msgid "Custom color background"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_footer_options.php:17
+msgid "Footer Components"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_footer_options.php:21
+msgid "Subscribe Form & Sidebar"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_footer_options.php:22
+msgid "Only Subscribe Form"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_footer_options.php:23
+msgid "Only Sidebar"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_media_url.php:9
+msgid "Video/Audio URL"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_media_url.php:25
+msgid ""
+"This URL could be from YouTube/Vimeo/Soundcloud/Mixcloud or any suported "
+"embeded players of Wordpress."
+msgstr ""
+
+#: lib/includes/metaboxes/sth_music_single.php:9
+msgid "Music Song/Album Info"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_music_single.php:16
+msgid "Basic Info"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_music_single.php:19
+msgid "Accordion Details"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_music_single.php:22
+#: lib/includes/metaboxes/sth_music_single.php:89
+msgid "Purchase/Download Info"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_music_single.php:25
+#: lib/includes/metaboxes/sth_portfolio_mb.php:19
+msgid "Meta Info"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_music_single.php:34
+msgid "Player Color Scheme"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_music_single.php:46
+msgid "SoundCloud URL"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_music_single.php:50
+msgid ""
+"This URL will be used to get the audio from SoundCloud. It could be a "
+"<strong>single song</strong> or a <strong>playlist</strong> (album)."
+msgstr ""
+
+#: lib/includes/metaboxes/sth_music_single.php:54
+msgid "Description"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_music_single.php:68
+#: lib/includes/metaboxes/sth_portfolio_mb.php:37
+msgid "Meta Details"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_music_single.php:73
+#: lib/includes/metaboxes/sth_music_single.php:123
+#: lib/includes/metaboxes/sth_portfolio_mb.php:42
+msgid "Title"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_music_single.php:76
+#: lib/includes/metaboxes/sth_portfolio_mb.php:45
+msgid "For example, it could be <strong>\"Release Date\"</strong>."
+msgstr ""
+
+#: lib/includes/metaboxes/sth_music_single.php:79
+#: lib/includes/metaboxes/sth_music_single.php:128
+#: lib/includes/metaboxes/sth_portfolio_mb.php:48
+msgid "Value"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_music_single.php:82
+#: lib/includes/metaboxes/sth_portfolio_mb.php:51
+msgid "For \"Release Date\" it could be <strong>\"13/12/2015\"</strong>."
+msgstr ""
+
+#: lib/includes/metaboxes/sth_music_single.php:94
+msgid "Icon ID"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_music_single.php:97
+msgid ""
+"Take the icon ID from <a target=\"_blank\" href=\"http://fortawesome.github."
+"io/Font-Awesome/3.2.1/icons/\">here</a>."
+msgstr ""
+
+#: lib/includes/metaboxes/sth_music_single.php:100
+msgid "Purchase/Download URL"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_music_single.php:103
+msgid "The URL for download or purchase."
+msgstr ""
+
+#: lib/includes/metaboxes/sth_music_single.php:109
+msgid "Accordion Section Title"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_music_single.php:113
+msgid ""
+"This is used for the accordion section and you can use it for lyrics, "
+"tracklists or other things."
+msgstr ""
+
+#: lib/includes/metaboxes/sth_music_single.php:118
+msgid "Accordion Section Details"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_page_background.php:9
+msgid "Background Image"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_photo_album.php:9
+msgid "Add/Edit Photos"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_photo_album.php:16
+msgid "Photos per page"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_photo_album.php:19
+msgid "How many photos to load on each page?"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_portfolio_cover.php:9
+msgid "Portfolio Cover Image/Slider"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_portfolio_cover.php:20
+msgid "Fixed image"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_portfolio_cover.php:21
+msgid "Slider"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_portfolio_cover.php:28
+msgid "Single Image Cover"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_portfolio_cover.php:33
+msgid "Cover Single Image"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_portfolio_cover.php:41
+msgid "Slider Cover"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_portfolio_cover.php:46
+msgid "Cover Slider Images"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_portfolio_cover.php:53
+msgid "Slider Logo"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_portfolio_cover.php:57
+msgid "ON"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_portfolio_cover.php:58
+msgid "OFF"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_portfolio_mb.php:9
+msgid "Portfolio Info"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_portfolio_mb.php:16
+msgid "Portfolio Images"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_portfolio_mb.php:22
+msgid "Portfolio Style"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_portfolio_mb.php:28
+msgid "Choose images"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_portfolio_mb.php:57
+msgid "Layout Style"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_portfolio_mb.php:61
+msgid "2 Columns"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_portfolio_mb.php:62
+msgid "Fixed"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_portfolio_mb.php:63
+msgid "Fixed Left"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_post_page_sidebar.php:9
+msgid "Post Layout"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_post_page_sidebar.php:20
+msgid "With Sidebar"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_post_page_sidebar.php:21
+msgid "Full Width"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_read_info.php:9
+msgid "Read Time Info"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_read_info.php:19
+msgid "ex: \"X minutes read\" or \"Short Read\""
+msgstr ""
+
+#: lib/includes/metaboxes/sth_video_album.php:9
+msgid "Video Post"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_video_album.php:22
+msgid "Video URL"
+msgstr ""
+
+#: lib/includes/metaboxes/sth_video_album.php:25
+msgid ""
+"You can use Youtube/Vimeo or other supported video oembeds for Wordpress."
+msgstr ""
+
+#: lib/includes/shortcodes/contact-form.php:100 template-contact.php:85
+msgid "New message from "
+msgstr ""
+
+#: lib/includes/shortcodes/contact-form.php:121 template-contact.php:134
+msgid ""
+"Please check if you've filled all the fields with valid information and try "
+"again. Thank you."
+msgstr ""
+
+#: lib/includes/shortcodes/contact-form.php:129 template-contact.php:143
+msgid "Message Successfully Sent!"
+msgstr ""
+
+#: lib/includes/shortcodes/contact-form.php:137
+msgid "Name"
+msgstr ""
+
+#: lib/includes/shortcodes/contact-form.php:138
+msgid "Email"
+msgstr ""
+
+#: lib/includes/shortcodes/contact-form.php:140
+msgid "Message"
+msgstr ""
+
+#: lib/includes/shortcodes/contact-form.php:143 template-contact.php:167
+msgid "Send"
+msgstr ""
+
+#: lib/includes/vc_templates/vc_accordion_tab.php:5
+msgid "Section"
+msgstr ""
+
+#: lib/includes/vc_templates/vc_tab.php:9
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: searchform.php:5
+msgid "Type and press enter to search&#8230;"
+msgstr ""
+
+#: sidebar.php:7
+msgid "Add some widgets on this sidebar."
+msgstr ""
+
+#: single.php:66
+msgid "Tags"
+msgstr ""
+
+#: single.php:80
+msgid "You may also like"
+msgstr ""
+
+#: template-contact.php:114
+msgid "WHERE CAN YOU FIND ME?"
+msgstr ""
+
+#: template-contact.php:149
+msgid "Write me a message"
+msgstr ""
+
+#: template-contact.php:155
+msgid "Name *"
+msgstr ""
+
+#: template-contact.php:158
+msgid "Email *"
+msgstr ""
+
+#: template-contact.php:161
+msgid "Website"
+msgstr ""

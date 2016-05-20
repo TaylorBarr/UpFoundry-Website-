@@ -1,0 +1,68 @@
+[07-Jan-2016 04:49:24 America/Detroit] PHP Parse error:  syntax error, unexpected ''This is just a test message'' (T_CONSTANT_ENCAPSED_STRING) in /home/uptaylor/public_html/mail/mailtest.php on line 39
+[07-Jan-2016 04:49:27 America/Detroit] PHP Parse error:  syntax error, unexpected ''This is just a test message'' (T_CONSTANT_ENCAPSED_STRING) in /home/uptaylor/public_html/mail/mailtest.php on line 39
+[07-Jan-2016 04:49:28 America/Detroit] PHP Parse error:  syntax error, unexpected ''This is just a test message'' (T_CONSTANT_ENCAPSED_STRING) in /home/uptaylor/public_html/mail/mailtest.php on line 39
+[07-Jan-2016 04:49:29 America/Detroit] PHP Parse error:  syntax error, unexpected ''This is just a test message'' (T_CONSTANT_ENCAPSED_STRING) in /home/uptaylor/public_html/mail/mailtest.php on line 39
+[07-Jan-2016 04:49:30 America/Detroit] PHP Parse error:  syntax error, unexpected ''This is just a test message'' (T_CONSTANT_ENCAPSED_STRING) in /home/uptaylor/public_html/mail/mailtest.php on line 39
+[07-Jan-2016 04:49:31 America/Detroit] PHP Parse error:  syntax error, unexpected ''This is just a test message'' (T_CONSTANT_ENCAPSED_STRING) in /home/uptaylor/public_html/mail/mailtest.php on line 39
+[07-Jan-2016 04:49:40 America/Detroit] PHP Parse error:  syntax error, unexpected ''This is just a test message'' (T_CONSTANT_ENCAPSED_STRING) in /home/uptaylor/public_html/mail/mailtest.php on line 39
+[07-Jan-2016 04:49:44 America/Detroit] PHP Parse error:  syntax error, unexpected ''This is just a test message'' (T_CONSTANT_ENCAPSED_STRING) in /home/uptaylor/public_html/mail/mailtest.php on line 39
+[07-Jan-2016 04:49:45 America/Detroit] PHP Parse error:  syntax error, unexpected ''This is just a test message'' (T_CONSTANT_ENCAPSED_STRING) in /home/uptaylor/public_html/mail/mailtest.php on line 39
+[07-Jan-2016 04:49:45 America/Detroit] PHP Parse error:  syntax error, unexpected ''This is just a test message'' (T_CONSTANT_ENCAPSED_STRING) in /home/uptaylor/public_html/mail/mailtest.php on line 39
+[07-Jan-2016 04:49:46 America/Detroit] PHP Parse error:  syntax error, unexpected ''This is just a test message'' (T_CONSTANT_ENCAPSED_STRING) in /home/uptaylor/public_html/mail/mailtest.php on line 39
+[07-Jan-2016 04:49:47 America/Detroit] PHP Parse error:  syntax error, unexpected ''This is just a test message'' (T_CONSTANT_ENCAPSED_STRING) in /home/uptaylor/public_html/mail/mailtest.php on line 39
+[07-Jan-2016 04:49:48 America/Detroit] PHP Parse error:  syntax error, unexpected ''This is just a test message'' (T_CONSTANT_ENCAPSED_STRING) in /home/uptaylor/public_html/mail/mailtest.php on line 39
+[07-Jan-2016 04:49:49 America/Detroit] PHP Parse error:  syntax error, unexpected ''This is just a test message'' (T_CONSTANT_ENCAPSED_STRING) in /home/uptaylor/public_html/mail/mailtest.php on line 39
+[07-Jan-2016 04:50:06 America/Detroit] PHP Parse error:  syntax error, unexpected ''This is just a test message'' (T_CONSTANT_ENCAPSED_STRING) in /home/uptaylor/public_html/mail/mailtest.php on line 39
+[07-Jan-2016 04:50:25 America/Detroit] PHP Parse error:  syntax error, unexpected ''This is just a test message'' (T_CONSTANT_ENCAPSED_STRING) in /home/uptaylor/public_html/mail/mailtest.php on line 39
+[07-Jan-2016 04:50:27 America/Detroit] PHP Parse error:  syntax error, unexpected ''This is just a test message'' (T_CONSTANT_ENCAPSED_STRING) in /home/uptaylor/public_html/mail/mailtest.php on line 39
+[07-Jan-2016 04:54:32 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 04:54:34 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 04:54:35 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 04:54:35 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 04:54:36 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 04:54:37 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 04:54:38 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 04:54:39 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 04:55:19 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 04:55:33 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 04:56:55 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 04:56:57 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 04:56:58 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 04:56:59 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 04:57:00 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 04:57:01 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 04:57:01 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 04:57:02 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 04:57:03 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 05:35:13 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 06:03:08 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 07:08:02 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 09:36:40 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 09:36:43 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 09:36:44 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 09:36:45 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 09:36:46 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 09:36:46 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 09:36:47 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 09:36:49 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 09:36:49 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 09:36:50 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 09:36:51 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 09:45:23 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 09:45:26 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 09:45:27 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 09:45:28 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[07-Jan-2016 11:20:08 America/Detroit] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/uptaylor/public_html/mail/mail.php on line 46
+[07-Jan-2016 11:20:09 America/Detroit] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/uptaylor/public_html/mail/mail.php on line 46
+[08-Jan-2016 05:20:35 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[21-Mar-2016 19:11:43 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[30-Mar-2016 14:41:04 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[30-Mar-2016 22:09:28 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[31-Mar-2016 04:03:09 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[31-Mar-2016 09:59:05 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[10-Apr-2016 21:44:35 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[20-Apr-2016 17:22:34 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[21-Apr-2016 00:48:52 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[21-Apr-2016 06:51:07 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[21-Apr-2016 13:07:16 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46
+[01-May-2016 08:44:41 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/uptaylor/public_html/mail/mailtest.php on line 46

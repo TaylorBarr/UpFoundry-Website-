@@ -1,0 +1,5 @@
+[30-Mar-2016 11:12:37 America/Detroit] PHP Parse error:  syntax error, unexpected end of file in /home/uptaylor/public_html/app/forms/New-Project/new-project-process.php on line 49
+[30-Mar-2016 11:13:47 America/Detroit] PHP Parse error:  syntax error, unexpected end of file in /home/uptaylor/public_html/app/forms/New-Project/new-project-process.php on line 49
+[30-Mar-2016 16:47:56 America/Detroit] PHP Warning:  implode(): Invalid arguments passed in /home/uptaylor/public_html/app/forms/New-Project/new-project-process.php on line 21
+[30-Mar-2016 16:57:08 America/Detroit] PHP Warning:  implode(): Invalid arguments passed in /home/uptaylor/public_html/app/forms/New-Project/new-project-process.php on line 21
+[30-Mar-2016 16:57:43 America/Detroit] PHP Warning:  implode(): Invalid arguments passed in /home/uptaylor/public_html/app/forms/New-Project/new-project-process.php on line 21

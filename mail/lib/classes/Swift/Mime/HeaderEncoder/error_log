@@ -1,0 +1,8 @@
+[10-Feb-2016 03:31:14 America/Detroit] PHP Fatal error:  Class 'Swift_Encoder_Base64Encoder' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Mime/HeaderEncoder/Base64HeaderEncoder.php on line 16
+[10-Feb-2016 03:38:47 America/Detroit] PHP Fatal error:  Class 'Swift_Encoder_QpEncoder' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Mime/HeaderEncoder/QpHeaderEncoder.php on line 16
+[10-Feb-2016 11:00:33 America/Detroit] PHP Fatal error:  Class 'Swift_Encoder_Base64Encoder' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Mime/HeaderEncoder/Base64HeaderEncoder.php on line 16
+[10-Feb-2016 11:00:52 America/Detroit] PHP Fatal error:  Class 'Swift_Encoder_QpEncoder' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Mime/HeaderEncoder/QpHeaderEncoder.php on line 16
+[10-Feb-2016 17:41:32 America/Detroit] PHP Fatal error:  Class 'Swift_Encoder_Base64Encoder' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Mime/HeaderEncoder/Base64HeaderEncoder.php on line 16
+[10-Feb-2016 17:42:02 America/Detroit] PHP Fatal error:  Class 'Swift_Encoder_QpEncoder' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Mime/HeaderEncoder/QpHeaderEncoder.php on line 16
+[11-Feb-2016 00:30:28 America/Detroit] PHP Fatal error:  Class 'Swift_Encoder_QpEncoder' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Mime/HeaderEncoder/QpHeaderEncoder.php on line 16
+[11-Feb-2016 00:30:43 America/Detroit] PHP Fatal error:  Class 'Swift_Encoder_Base64Encoder' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Mime/HeaderEncoder/Base64HeaderEncoder.php on line 16

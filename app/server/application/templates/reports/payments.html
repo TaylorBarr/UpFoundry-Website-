@@ -1,0 +1,16 @@
+<div class="row header">
+    <div class="column">Client</div>
+    <div class="column">Invoice #</div>
+    <div class="column">Amount</div>
+    <div class="column">Date</div>
+    <div class="column">Payment Method</div>
+</div>
+{loop="$payments"}
+<div class="row">
+    <span class="column">{$value->client_name}</span>
+    <span class="column">{$value->invoice_number}</span>
+    <span class="column">{$value->amount}</span>
+    <span class="column">{$value->formatted_date}</span>
+    <span class="column">{$value->payment_method}</span>
+</div>
+{/loop}

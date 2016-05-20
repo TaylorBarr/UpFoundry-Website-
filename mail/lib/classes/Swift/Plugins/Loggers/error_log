@@ -1,0 +1,10 @@
+[08-Feb-2016 13:26:21 America/Detroit] PHP Fatal error:  Interface 'Swift_Plugins_Logger' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Plugins/Loggers/ArrayLogger.php on line 17
+[08-Feb-2016 20:03:40 America/Detroit] PHP Fatal error:  Interface 'Swift_Plugins_Logger' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Plugins/Loggers/ArrayLogger.php on line 17
+[08-Feb-2016 20:27:44 America/Detroit] PHP Fatal error:  Interface 'Swift_Plugins_Logger' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Plugins/Loggers/EchoLogger.php on line 17
+[09-Feb-2016 01:58:07 America/Detroit] PHP Fatal error:  Interface 'Swift_Plugins_Logger' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Plugins/Loggers/ArrayLogger.php on line 17
+[09-Feb-2016 01:58:28 America/Detroit] PHP Fatal error:  Interface 'Swift_Plugins_Logger' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Plugins/Loggers/EchoLogger.php on line 17
+[09-Feb-2016 07:52:19 America/Detroit] PHP Fatal error:  Interface 'Swift_Plugins_Logger' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Plugins/Loggers/ArrayLogger.php on line 17
+[09-Feb-2016 07:54:02 America/Detroit] PHP Fatal error:  Interface 'Swift_Plugins_Logger' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Plugins/Loggers/EchoLogger.php on line 17
+[09-Feb-2016 13:47:21 America/Detroit] PHP Fatal error:  Interface 'Swift_Plugins_Logger' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Plugins/Loggers/EchoLogger.php on line 17
+[09-Feb-2016 13:48:02 America/Detroit] PHP Fatal error:  Interface 'Swift_Plugins_Logger' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Plugins/Loggers/ArrayLogger.php on line 17
+[09-Feb-2016 19:45:35 America/Detroit] PHP Fatal error:  Interface 'Swift_Plugins_Logger' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Plugins/Loggers/EchoLogger.php on line 17

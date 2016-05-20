@@ -1,0 +1,24 @@
+/*
+Theme Name: IMBT
+Theme URI: http://demo.stylishthemes.co/imbt/
+Author: StylishThemes
+Author URI: http://stylishthemes.co
+Description: IMBT is the ultimate Wordpress Theme for Blogging.
+Version: 1.1.0
+License: GNU General Public License version 3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: imbt
+Tags: black, blue, white, two-columns, responsive-layout, threaded-comments, translation-ready, custom-menu
+*/
+
+.wp-caption, .wp-caption-text, .sticky, .gallery-caption, .bypostauthor, .alignright, .alignleft, .aligncenter {}
+
+.page-content-inner .full-width-blockquote, .page-content-inner .full-width-image {
+    width: 100vw;
+    left: calc(-100vw / 2 - -100% / 2);
+    position: relative;
+}
+
+.products-list article:last-child {
+    padding-bottom: 5.5rem;
+}

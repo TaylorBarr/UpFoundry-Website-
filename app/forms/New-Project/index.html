@@ -1,0 +1,335 @@
+<!DOCTYPE html> 
+<html>
+	<head>
+		<title>Up Foundry Websites : Website Proposal Submission</title>
+		
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+		
+		<link rel="stylesheet" href="css/demo.css">
+		<link rel="stylesheet" href="css/font-awesome.css">
+		<link rel="stylesheet" href="css/sky-forms.css">
+		<link rel="stylesheet" href="css/sky-forms-black.css">
+		<!--[if lt IE 9]>
+			<link rel="stylesheet" href="css/sky-forms-ie8.css">
+		<![endif]-->
+		
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery-ui.min.js"></script>
+		<script src="js/jquery.form.min.js"></script>
+		<script src="js/jquery.validate.min.js"></script>
+		<!--[if lt IE 10]>
+			<script src="js/jquery.placeholder.min.js"></script>
+		<![endif]-->		
+		<!--[if lt IE 9]>
+			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+			<script src="js/sky-forms-ie8.js"></script>
+		<![endif]-->
+	</head>
+
+	
+	
+	<body class="bg-blue">
+		<div class="body">		
+			<form action="new-project-process.php" method="post" enctype="multipart/form-data" id="sky-form" class="sky-form">
+
+				<header>Website Proposal: Details
+						
+			
+				</header>
+			<fieldset>
+				<section>
+				
+					<div class="row">
+						<section class="col col-12">
+							<label class="label"><b>Hello!</b> Please fill out the details best you can. Once you submit the form and I review it, I will provide an estimate within 48-72 hours. You will be able accept/decline the estimate prior to work starting on your website. Thanks!</label>
+						</section>
+						
+					</div>
+				</section>
+			</fieldset>
+				<fieldset>					
+					<div class="row">
+						<section class="col col-6">
+							<label class="input">
+								<i class="icon-append fa fa-user"></i>
+								<input type="text" name="name" placeholder="Full Name">
+							</label>
+						</section>
+						<section class="col col-6">
+							<label class="input">
+								<i class="icon-append fa fa-briefcase"></i>
+								<input type="text" name="company" placeholder="Company">
+							</label>
+						</section>
+					</div>
+					
+					
+					<div class="row">
+						<section class="col col-6">
+							<label class="input">
+								<i class="icon-append fa fa-envelope-o"></i>
+								<input type="email" name="email" placeholder="E-mail">
+							</label>
+						</section>
+						<section class="col col-6">
+							<label class="input">
+								<i class="icon-append fa fa-phone"></i>
+								<input type="tel" name="phone" placeholder="Phone">
+							</label>
+						</section>
+					</div>
+				</fieldset>
+				<fieldset>
+				<section>
+						<label class="label">Will this be a whole new website or making over an existing website?</label>
+						<div class="row">
+							<div class="col col-10">
+								<label class="select">
+								<select name="website">
+									<option value="0" selected disabled>Select One</option>
+									<option value="New Website">New website</option>
+									<option value="Existing Website">Existing Website</option>
+									<option value="IDK website">I will need you to review my current site - I don't know.</option>
+								</select>
+								<i></i>
+							</label>
+							</div>
+								
+							<div class="col col-10" style="padding-top: 15px;">	  
+								<label class="label">If existing or you don't know: provide us your website URL:</label>
+	  
+								<label class="input"><input type="text" name="website-URL" placeholder="http://example.com"></label>	
+							</div>
+							
+
+						
+
+					</section>
+				</fieldset>
+															
+			
+			
+			<fieldset>
+				<section class="col-6">
+						
+						<label class="label">Hosting your website:</label>
+							<label class="toggle"><input type="checkbox"  name="web-hosting"><i></i>Do you need web hosting?</label>
+							
+						
+				</fieldset>
+				
+				
+				
+				
+				
+				<fieldset>
+					<section>
+						<label class="label">Other than the Homepage, what pages will you need create (or updated, if existing website)?</label>
+						<div class="row">
+						  	<label name="pages" id="pages">
+							<div class="col col-4">
+								<label class="checkbox"><input type="checkbox" name="pages[]" value="about"><i></i>About</label>
+								<label class="checkbox"><input type="checkbox" name="pages[]" value="services"><i></i>Services</label>
+								<label class="checkbox"><input type="checkbox" name="pages[]" value="portfolio"><i></i>Portfolio</label>
+							</div>
+							<div class="col col-4">
+								<label class="checkbox"><input type="checkbox" name="pages[]"value="blogcms"><i></i>Blog/CMS</label>
+								<label class="checkbox"><input type="checkbox" name="pages[]" value="contactform"><i></i>Contact Form</label>
+								<label class="checkbox"><input type="checkbox" name="pages[]" value="faq"><i></i>FAQ's</label>
+							</div>
+							<div class="col col-4">
+								<label class="checkbox"><input type="checkbox" name="pages[]" value="acceptpayments"><i></i>Accept Payments</label>
+								<label class="checkbox"><input type="checkbox" name="pages[]"value="invoicing"><i></i>Invoice clients</label>
+								
+							</div>
+						  	</label> 	
+						</div>						
+					</section>
+				</fieldset>					
+					
+				<fieldset>
+					<div class="row">
+					<section class="col col-6">
+							<label class="select">
+								<select name="budget">
+									<option value="0" selected disabled>Budget</option>
+									<option value="less than $1000">less than $1000</option>
+									<option value="$1500 - $3000">$1500 - $3000</option>
+									<option value="1$3500 - $5000">$3500 - $5000</option>
+									<option value="more than $5500">more than $5500</option>
+								</select>
+								<i></i>
+							</label>
+						</section>
+					</div>
+					
+					<div class="row">
+						<section class="col col-6">
+							<label class="input">
+								<i class="icon-append fa fa-calendar"></i>
+								<input type="text" name="start" id="start" placeholder="Expected start date">
+							</label>
+						</section>
+						<section class="col col-6">
+							<label class="input">
+								<i class="icon-append fa fa-calendar"></i>
+								<input type="text" name="finish" id="finish" placeholder="Expected finish date">
+							</label>
+						</section>
+					</div>
+					
+				
+					
+					<section>
+						<label class="textarea">
+							<i class="icon-append fa fa-comment"></i>
+							<textarea rows="5" name="comment" placeholder="Please share the style of website you are looking for (include links to other websites you like), the little details, and overall: what your goal is with your website (pure branding, increase sales, etc.)..."></textarea>
+						</label>
+					</section>	
+					
+					<label for="file" class="input input-file">
+							<div class="button"><input type="file" name="file"  multiple onchange="this.parentNode.nextSibling.value = this.value">Browse</div><input type="text" placeholder="Need to share a file with me?" readonly>
+						</label>
+
+
+				</fieldset>
+				<fieldset>
+					<section>
+						<div class="row">
+							<div class="col col-10">
+								<label class="checkbox"><input type="checkbox" name="terms" value="yes"><i></i>By submitting the form, you agree to our <a target="_blank" href="http://websites.upfoundry.com/website-project-terms.html">terms and conditions.</a></label>
+							</div>
+						</div>
+					</section>
+									
+				</fieldset>
+				<footer>
+					<button type="submit" class="button">Send request</button>
+					<div class="progress"></div>
+					
+				</footer>				
+			<div class="message">
+					<i class="fa fa-check"></i>
+					<p>Thanks for your website submission!<br>We'll contact you very soon - within 24 to 48 hours with an estimate. You will then be able to accept or decline prior to work starting.</p>
+				</div>
+			</form>			
+		</div>
+		
+		<script type="text/javascript">
+			$(function()
+			{
+				// Datepickers
+				
+					
+				$('#start').datepicker({
+					dateFormat: 'mm.dd.yy',
+					minDate: '0',
+					prevText: '<i class="fa fa-chevron-left"></i>',
+					nextText: '<i class="fa fa-chevron-right"></i>',
+
+					onSelect: function( selectedDate )
+					{
+						$('#finish').datepicker('option', 'minDate', selectedDate);
+					}
+				
+				});
+				$('#finish').datepicker({
+					dateFormat: 'mm.dd.yy',
+					minDate: '0',
+					prevText: '<i class="fa fa-chevron-left"></i>',
+					nextText: '<i class="fa fa-chevron-right"></i>',
+					onSelect: function( selectedDate )
+					{
+						$('#start').datepicker('option', 'maxDate', selectedDate);
+					}
+				});
+				
+				// Validation
+				$("#sky-form").validate(
+				{					
+					// Rules for form validation
+					rules:
+					{
+						name:
+						{
+							required: true
+						},
+						email:
+						{
+							required: true,
+							email: true
+						},
+						phone:
+						{
+							required: true
+						},
+						interested:
+						{
+							required: true
+						},
+						budget:
+						{
+							required: true
+						}
+						
+					},
+										
+					// Messages for form validation
+					messages:
+					{
+						name:
+						{
+							required: 'Please enter your name'
+						},
+						email:
+						{
+							required: 'Please enter your email address',
+							email: 'Please enter a VALID email address'
+						},
+						phone:
+						{
+							required: 'Please enter your phone number'
+						},
+						interested:
+						{
+							required: 'Please select interested service'
+						},
+						budget:
+						{
+							required: 'Please select your budget'
+						}
+						
+					},
+
+					// Ajax form submition
+					submitHandler: function(form)
+					{
+						$(form).ajaxSubmit(
+						{
+							beforeSend: function()
+							{
+								$('#sky-form button[type="submit"]').addClass('button-uploading').attr('disabled', true);
+							},
+					    uploadProgress: function(event, position, total, percentComplete)
+					    {
+					    	$("#sky-form .progress").text(percentComplete + '%');
+					    },
+							success: function()
+							{
+								$("#sky-form").addClass('submited');
+								$('#sky-form button[type="submit"]').removeClass('button-uploading').attr('disabled', false);
+							}
+						});
+					},	
+					
+					// Do not change code below
+					errorPlacement: function(error, element)
+					{
+						error.insertAfter(element.parent());
+					}
+				});
+			});			
+		</script>
+	</body>
+</html>

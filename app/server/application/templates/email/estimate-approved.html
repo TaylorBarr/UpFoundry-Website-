@@ -1,0 +1,20 @@
+{include="header"}
+
+{include="formatting-header"}
+
+
+            <b style="font-weight:bold;">An estimate has been approved</b>
+
+            <br>
+            <br>
+
+            <a href="{$estimate_url}">Estimate #{$estimate->number}</a> has been approved
+
+            {if="isset($invoice) && !empty($invoice)"}
+            <br>
+            <br>
+            <a href="{$invoice_url}">Invoice #{$invoice->number}</a> has been automatically created
+            {/if}
+
+{include="formatting-footer"}
+{include="footer"}

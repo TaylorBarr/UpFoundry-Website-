@@ -1,0 +1,7 @@
+[08-Feb-2016 13:32:00 America/Detroit] PHP Fatal error:  Interface 'Swift_CharacterStream' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php on line 17
+[08-Feb-2016 13:34:36 America/Detroit] PHP Fatal error:  Interface 'Swift_CharacterStream' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/CharacterStream/NgCharacterStream.php on line 18
+[08-Feb-2016 20:00:47 America/Detroit] PHP Fatal error:  Interface 'Swift_CharacterStream' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/CharacterStream/NgCharacterStream.php on line 18
+[08-Feb-2016 20:04:00 America/Detroit] PHP Fatal error:  Interface 'Swift_CharacterStream' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php on line 17
+[09-Feb-2016 01:58:48 America/Detroit] PHP Fatal error:  Interface 'Swift_CharacterStream' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php on line 17
+[09-Feb-2016 12:24:26 America/Detroit] PHP Fatal error:  Interface 'Swift_CharacterStream' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/CharacterStream/NgCharacterStream.php on line 18
+[09-Feb-2016 19:57:05 America/Detroit] PHP Fatal error:  Interface 'Swift_CharacterStream' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php on line 17

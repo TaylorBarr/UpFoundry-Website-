@@ -1,0 +1,16 @@
+<div class="row header">
+    <div class="column">User</div>
+    <div class="column">Project</div>
+    <div class="column">Task</div>
+    <div class="column">Date</div>
+    <div class="column">Time</div>
+</div>
+{loop="$time_entries"}
+<div class="row">
+    <span class="column">{$value->user_name}</span>
+    <span class="column">{$value->project_name}</span>
+    <span class="column">{$value->task}</span>
+    <span class="column">{$value->formatted_start_date}</span>
+    <span class="column">{$value->formatted_time}</span>
+</div>
+{/loop}

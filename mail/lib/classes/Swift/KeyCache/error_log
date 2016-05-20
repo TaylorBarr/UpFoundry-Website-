@@ -1,0 +1,16 @@
+[07-Nov-2015 11:56:53 America/Detroit] PHP Fatal error:  Interface 'Swift_KeyCache' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/KeyCache/NullKeyCache.php on line 17
+[14-Jan-2016 11:34:34 America/Detroit] PHP Fatal error:  Interface 'Swift_KeyCache' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/KeyCache/NullKeyCache.php on line 17
+[15-Jan-2016 11:36:01 America/Detroit] PHP Fatal error:  Interface 'Swift_KeyCache' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/KeyCache/ArrayKeyCache.php on line 17
+[16-Jan-2016 12:11:31 America/Detroit] PHP Fatal error:  Interface 'Swift_KeyCache' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/KeyCache/ArrayKeyCache.php on line 17
+[16-Jan-2016 22:20:38 America/Detroit] PHP Fatal error:  Interface 'Swift_InputByteStream' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/KeyCache/KeyCacheInputStream.php on line 17
+[17-Jan-2016 04:04:55 America/Detroit] PHP Fatal error:  Interface 'Swift_InputByteStream' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/KeyCache/KeyCacheInputStream.php on line 17
+[19-Jan-2016 21:24:27 America/Detroit] PHP Fatal error:  Interface 'Swift_InputByteStream' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/KeyCache/KeyCacheInputStream.php on line 17
+[25-Jan-2016 02:23:26 America/Detroit] PHP Fatal error:  Interface 'Swift_KeyCache' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/KeyCache/DiskKeyCache.php on line 17
+[25-Jan-2016 07:43:11 America/Detroit] PHP Fatal error:  Interface 'Swift_KeyCache' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/KeyCache/DiskKeyCache.php on line 17
+[25-Jan-2016 13:54:23 America/Detroit] PHP Fatal error:  Interface 'Swift_KeyCache' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/KeyCache/DiskKeyCache.php on line 17
+[25-Jan-2016 20:04:05 America/Detroit] PHP Fatal error:  Interface 'Swift_KeyCache' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/KeyCache/DiskKeyCache.php on line 17
+[26-Jan-2016 01:28:02 America/Detroit] PHP Fatal error:  Interface 'Swift_KeyCache' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/KeyCache/DiskKeyCache.php on line 17
+[26-Jan-2016 03:30:53 America/Detroit] PHP Fatal error:  Interface 'Swift_KeyCache_KeyCacheInputStream' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/KeyCache/SimpleKeyCacheInputStream.php on line 17
+[26-Jan-2016 10:35:15 America/Detroit] PHP Fatal error:  Interface 'Swift_KeyCache_KeyCacheInputStream' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/KeyCache/SimpleKeyCacheInputStream.php on line 17
+[26-Jan-2016 16:56:35 America/Detroit] PHP Fatal error:  Interface 'Swift_KeyCache_KeyCacheInputStream' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/KeyCache/SimpleKeyCacheInputStream.php on line 17
+[26-Jan-2016 22:44:52 America/Detroit] PHP Fatal error:  Interface 'Swift_KeyCache_KeyCacheInputStream' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/KeyCache/SimpleKeyCacheInputStream.php on line 17

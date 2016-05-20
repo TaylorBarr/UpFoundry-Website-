@@ -1,0 +1,12 @@
+[14-Jan-2016 15:32:55 America/Detroit] PHP Fatal error:  Interface 'Swift_ReplacementFilterFactory' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/StreamFilters/StringReplacementFilterFactory.php on line 17
+[16-Jan-2016 05:22:55 America/Detroit] PHP Fatal error:  Interface 'Swift_ReplacementFilterFactory' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/StreamFilters/StringReplacementFilterFactory.php on line 17
+[23-Jan-2016 16:14:05 America/Detroit] PHP Fatal error:  Interface 'Swift_StreamFilter' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/StreamFilters/ByteArrayReplacementFilter.php on line 19
+[23-Jan-2016 22:47:33 America/Detroit] PHP Fatal error:  Interface 'Swift_StreamFilter' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/StreamFilters/ByteArrayReplacementFilter.php on line 19
+[24-Jan-2016 04:47:00 America/Detroit] PHP Fatal error:  Interface 'Swift_StreamFilter' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/StreamFilters/ByteArrayReplacementFilter.php on line 19
+[24-Jan-2016 10:48:14 America/Detroit] PHP Fatal error:  Interface 'Swift_StreamFilter' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/StreamFilters/ByteArrayReplacementFilter.php on line 19
+[24-Jan-2016 16:26:51 America/Detroit] PHP Fatal error:  Interface 'Swift_StreamFilter' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/StreamFilters/ByteArrayReplacementFilter.php on line 19
+[25-Jan-2016 20:08:04 America/Detroit] PHP Fatal error:  Interface 'Swift_StreamFilter' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/StreamFilters/StringReplacementFilter.php on line 17
+[26-Jan-2016 01:27:48 America/Detroit] PHP Fatal error:  Interface 'Swift_StreamFilter' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/StreamFilters/StringReplacementFilter.php on line 17
+[26-Jan-2016 07:31:28 America/Detroit] PHP Fatal error:  Interface 'Swift_StreamFilter' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/StreamFilters/StringReplacementFilter.php on line 17
+[26-Jan-2016 14:13:07 America/Detroit] PHP Fatal error:  Interface 'Swift_StreamFilter' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/StreamFilters/StringReplacementFilter.php on line 17
+[26-Jan-2016 16:56:25 America/Detroit] PHP Fatal error:  Interface 'Swift_StreamFilter' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/StreamFilters/StringReplacementFilter.php on line 17

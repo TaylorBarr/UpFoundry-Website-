@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+Allow: /index.html
+Allow: /about.html
+Allow: /contact.html
+Allow: /services.html
+Allow: /privacy.html
+Allow: /terms.html
+
+Sitemap: http://upfoundry.com/sitemap.xml

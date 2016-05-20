@@ -1,0 +1,161 @@
+<?php if(!class_exists('raintpl')){exit;}?><head>
+</head>
+<style>
+	
+	@import "compass/css3";
+
+body {
+	font-family: "Helvetica Neue";
+	font-size: 10px;
+	font-weight: normal;
+}
+
+section {
+	max-width: 450px;
+	margin: 50px auto;
+
+	div {
+		max-width: 255px;
+		word-wrap: break-word;
+		margin-bottom: 20px;
+    line-height: 24px;
+	}
+}
+
+.clear {clear: both}
+.from-me {
+	position:relative;
+	padding:10px 20px;
+	color:white; 
+	background:#0B93F6;
+	border-radius:25px;
+	float: right;
+	margin: 0 auto;
+     width: 100px; 
+		
+	&:before {
+		content:"";
+		position:absolute;
+		z-index:-1;
+		bottom:-2px;
+		right:-7px;
+		height:20px;
+		border-right:20px solid #0B93F6;
+		border-bottom-left-radius: 16px 14px;
+		-webkit-transform:translate(0, -2px);
+	}
+
+	&:after {
+		content:"";
+		position:absolute;
+		z-index:1;
+		bottom:-2px;
+		right:-56px;
+		width:26px;
+		height:20px;
+		background:white;
+		border-bottom-left-radius: 10px;
+		-webkit-transform:translate(-30px, -2px);
+	}
+}
+.from-them {
+	position:relative;
+	padding:10px 20px;
+	background:#E5E5EA;
+	border-radius:25px;
+	color: black;
+  float: right;
+  margin: 0 auto;
+     width: 300px; 
+		
+	&:before {
+		content:"";
+		position:absolute;
+		z-index:2;
+		bottom:-2px;
+		left:-7px;
+		height:20px;
+		border-left:20px solid #E5E5EA;
+		border-bottom-right-radius: 16px 14px;
+		-webkit-transform:translate(0, -2px);
+	}
+
+	&:after {
+		content:"";
+		position:absolute;
+		z-index:3;
+		bottom:-2px;
+		left:4px;
+		width:26px;
+		height:20px;
+		background:white;
+		border-bottom-right-radius: 10px;
+		-webkit-transform:translate(-30px, -2px);
+	}
+}
+	</style>
+
+ <p style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6em; font-weight: normal; margin: 0 0 10px; padding: 10px;text-align: center;"><img src="http://upfoundry.com/img/uplogolight.png" style="max-width: 165px;"></p>
+
+    <div>
+	    
+	    <table class="main" width="75%" cellpadding="0" cellspacing="0"
+       style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; box-sizing: border-box; font-size: 14px; border-radius: 3px; background: #ffffff; margin: 0;">
+    <tr style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;text-align: center">
+	     <br>
+	    
+        <td class="content-wrap aligncenter"
+            style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 9px;"
+            align="center" valign="top">
+	            
+
+                  
+            <br>
+
+            <p style="font-weight:bold;text-align: center">The following message was posted for <b>YOU</b> in <?php echo $linked_object_type;?> '<?php echo $linked_object_title;?>'</b>
+            <br>
+            <br>
+  
+        
+           <section>
+           
+           
+  <div class="clear"></div>
+  
+    <div class="from-them" style="position:relative;
+	padding:10px 20px;
+	background:#E5E5EA;
+	border-radius:25px;
+	color: black;
+  float: right;
+  margin: 0 auto;
+     width: 300px; ">
+	     
+      <p><?php echo $message;?></p>
+    </div>
+    </section>
+
+
+
+        </div>
+        </td>
+    </tr>
+	    </table>
+	    
+	            <table class="btn-primary" cellpadding="0" cellspacing="0" border="0" style=" font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; width: auto !important; margin-left: auto; margin-right: auto; padding: 8px 20px 0px 20px;;"><tr style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 1.6em; margin: 0;">
+<td style="font-family: 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 14px; line-height: 1.6em; border-radius: 25px; text-align: center; vertical-align: top; background: #1a8bb3; margin: 0; padding-bottom: ;" align="center" valign="top">
+                  <a href="<?php echo $linked_object_url;?>" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 100%; line-height: 2; color: #ffffff;text-align: center; border-radius: 25px; display: inline-block; cursor: pointer; font-weight: bold; text-decoration: none; background: #3bb4df; margin: 0; padding: 0; border-color: #3bb4df; border-style: solid; border-width: 10px 20px;">Login here to respond..</a>
+</td>
+
+            </tr>
+            
+            </table>
+            <p style="text-align: center;"> or just hit <i> reply<i> to this email:)
+
+        <div style="font-family:'Helvetica','Arial',sans-serif;font-size:13px;line-height:1.4;color:#777;border-top-style:solid;border-top-width:1px;border-top-color:#d0d0d0;width:550px;padding:25px"> </br>
+	        <p> <i>To respond, just reply to this email message and it will notify the recipient by email, and your message will be added to the dashboard. </i></p>
+	        
+            <a href="<?php echo $linked_object_url;?>">Or, Click here to see full message thread and respond within the Up Foundry Dashboard.</a></div></br>
+        </div>
+    </div>
+

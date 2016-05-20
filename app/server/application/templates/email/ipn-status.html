@@ -1,0 +1,23 @@
+{include="header"}
+
+    <div>
+        <div style="font-family:'Helvetica','Arial',sans-serif;font-size:14px;color:#222222;line-height:1.4;width:550px;padding:25px">
+
+
+
+            <b style="font-weight:bold;">{$status}</b>
+
+            <br>
+            <br>
+
+            {loop="$data"}
+            <b>{$key}</b>: {$value}<br>
+            {/loop}
+
+        </div>
+
+
+
+    </div>
+
+{include="footer"}

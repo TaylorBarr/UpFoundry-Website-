@@ -1,0 +1,3 @@
+[08-Feb-2016 20:32:12 America/Detroit] PHP Fatal error:  Interface 'Swift_CharacterReaderFactory' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/CharacterReaderFactory/SimpleCharacterReaderFactory.php on line 17
+[09-Feb-2016 12:23:50 America/Detroit] PHP Fatal error:  Interface 'Swift_CharacterReaderFactory' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/CharacterReaderFactory/SimpleCharacterReaderFactory.php on line 17
+[09-Feb-2016 19:45:15 America/Detroit] PHP Fatal error:  Interface 'Swift_CharacterReaderFactory' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/CharacterReaderFactory/SimpleCharacterReaderFactory.php on line 17

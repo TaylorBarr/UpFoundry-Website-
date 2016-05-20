@@ -1,0 +1,76 @@
+[2016-03-25 16:49:59] [error] Invalid InvoiceItem(id - )
+    item: array(
+        0 => 'This field is required',
+    )
+[2016-03-25 16:49:59] [error] Fatal Error (1): Uncaught exception 'phpSweetPDO\Exceptions\DbException' with message 'Database error [42000]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1, driver error code is 1064 SQL: DELETE FROM invoice_items_tax_rates WHERE invoice_item_id =  Arguments: array (
+)' in /home/uptaylor/public_html/app/server/core/database/db.connection.class.php:252
+Stack trace:
+#0 /home/uptaylor/public_html/app/server/core/database/db.connection.class.php(77): phpSweetPDO\Connection->_executeStatement(Object(PDOStatement), 'DELETE FROM inv...', Array)
+#1 /home/uptaylor/public_html/app/server/core/model.class.php(420): phpSweetPDO\Connection->execute('DELETE FROM inv...')
+#2 /home/uptaylor/public_html/app/server/application/models/invoiceitem.php(99): Model->execute('DELETE FROM inv...')
+#3 /home/uptaylor/public_html/app/server/application/models/invoiceitem.php(85): InvoiceItem->delete_taxes()
+#4 /home/uptaylor/public_html/app/server/app
+    code: 1
+    message: 'Uncaught exception 'phpSweetPDO\Exceptions\DbException' with message 'Database error [42000]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1, driver error code is 1064 SQL: DELETE FROM invoice_items_tax_rates WHERE invoice_item_id =  Arguments: array()' in /home/uptaylor/public_html/app/server/core/database/db.connection.class.php:252
+    Stack trace:
+    #0 /home/uptaylor/public_html/app/server/core/database/db.connection.class.php(77): phpSweetPDO\Connection->_executeStatement(Object(PDOStatement), 'DELETE FROM inv...', Array)
+    #1 /home/uptaylor/public_html/app/server/core/model.class.php(420): phpSweetPDO\Connection->execute('DELETE FROM inv...')
+    #2 /home/uptaylor/public_html/app/server/application/models/invoiceitem.php(99): Model->execute('DELETE FROM inv...')
+    #3 /home/uptaylor/public_html/app/server/application/models/invoiceitem.php(85): InvoiceItem->delete_taxes()
+    #4 /home/uptaylor/public_html/app/server/app'
+    file: '/home/uptaylor/public_html/app/server/core/database/db.connection.class.php'
+    line: 252
+[2016-04-01 15:05:51] [error] Fatal Error (1): Uncaught exception 'phpSweetPDO\Exceptions\DbException' with message 'Database error [42000]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1, driver error code is 1064 SQL: SELECT * FROM invoice_tax_totals WHERE invoice_id =  Arguments: array (
+)' in /home/uptaylor/public_html/app/server/core/database/db.recordset.class.php:88
+Stack trace:
+#0 /home/uptaylor/public_html/app/server/core/database/db.recordset.class.php(77): phpSweetPDO\Recordset->_refresh()
+#1 /home/uptaylor/public_html/app/server/core/database/db.connection.class.php(96): phpSweetPDO\Recordset->__construct(Object(PDOStatement), Array)
+#2 /home/uptaylor/public_html/app/server/core/model.class.php(411): phpSweetPDO\Connection->select('SELECT * FROM i...')
+#3 /home/uptaylor/public_html/app/server/application/models/invoice.php(104): Model->select('SELECT * FROM i...')
+#4 /home/uptaylor/public_html/app/server/application/models/invoice.php(121): In
+    code: 1
+    message: 'Uncaught exception 'phpSweetPDO\Exceptions\DbException' with message 'Database error [42000]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1, driver error code is 1064 SQL: SELECT * FROM invoice_tax_totals WHERE invoice_id =  Arguments: array()' in /home/uptaylor/public_html/app/server/core/database/db.recordset.class.php:88
+    Stack trace:
+    #0 /home/uptaylor/public_html/app/server/core/database/db.recordset.class.php(77): phpSweetPDO\Recordset->_refresh()
+    #1 /home/uptaylor/public_html/app/server/core/database/db.connection.class.php(96): phpSweetPDO\Recordset->__construct(Object(PDOStatement), Array)
+    #2 /home/uptaylor/public_html/app/server/core/model.class.php(411): phpSweetPDO\Connection->select('SELECT * FROM i...')
+    #3 /home/uptaylor/public_html/app/server/application/models/invoice.php(104): Model->select('SELECT * FROM i...')
+    #4 /home/uptaylor/public_html/app/server/application/models/invoice.php(121): In'
+    file: '/home/uptaylor/public_html/app/server/core/database/db.recordset.class.php'
+    line: 88
+[2016-04-01 15:06:10] [error] Fatal Error (1): Uncaught exception 'phpSweetPDO\Exceptions\DbException' with message 'Database error [42000]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1, driver error code is 1064 SQL: SELECT * FROM invoice_tax_totals WHERE invoice_id =  Arguments: array (
+)' in /home/uptaylor/public_html/app/server/core/database/db.recordset.class.php:88
+Stack trace:
+#0 /home/uptaylor/public_html/app/server/core/database/db.recordset.class.php(77): phpSweetPDO\Recordset->_refresh()
+#1 /home/uptaylor/public_html/app/server/core/database/db.connection.class.php(96): phpSweetPDO\Recordset->__construct(Object(PDOStatement), Array)
+#2 /home/uptaylor/public_html/app/server/core/model.class.php(411): phpSweetPDO\Connection->select('SELECT * FROM i...')
+#3 /home/uptaylor/public_html/app/server/application/models/invoice.php(104): Model->select('SELECT * FROM i...')
+#4 /home/uptaylor/public_html/app/server/application/models/invoice.php(121): In
+    code: 1
+    message: 'Uncaught exception 'phpSweetPDO\Exceptions\DbException' with message 'Database error [42000]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1, driver error code is 1064 SQL: SELECT * FROM invoice_tax_totals WHERE invoice_id =  Arguments: array()' in /home/uptaylor/public_html/app/server/core/database/db.recordset.class.php:88
+    Stack trace:
+    #0 /home/uptaylor/public_html/app/server/core/database/db.recordset.class.php(77): phpSweetPDO\Recordset->_refresh()
+    #1 /home/uptaylor/public_html/app/server/core/database/db.connection.class.php(96): phpSweetPDO\Recordset->__construct(Object(PDOStatement), Array)
+    #2 /home/uptaylor/public_html/app/server/core/model.class.php(411): phpSweetPDO\Connection->select('SELECT * FROM i...')
+    #3 /home/uptaylor/public_html/app/server/application/models/invoice.php(104): Model->select('SELECT * FROM i...')
+    #4 /home/uptaylor/public_html/app/server/application/models/invoice.php(121): In'
+    file: '/home/uptaylor/public_html/app/server/core/database/db.recordset.class.php'
+    line: 88
+[2016-04-04 12:34:46] [error] Fatal Error (1): Uncaught exception 'phpSweetPDO\Exceptions\DbException' with message 'Database error [42000]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1, driver error code is 1064 SQL: SELECT * FROM payments WHERE invoice_id =  Arguments: array (
+)' in /home/uptaylor/public_html/app/server/core/database/db.recordset.class.php:88
+Stack trace:
+#0 /home/uptaylor/public_html/app/server/core/database/db.recordset.class.php(77): phpSweetPDO\Recordset->_refresh()
+#1 /home/uptaylor/public_html/app/server/core/database/db.connection.class.php(96): phpSweetPDO\Recordset->__construct(Object(PDOStatement), Array)
+#2 /home/uptaylor/public_html/app/server/core/model.class.php(115): phpSweetPDO\Connection->select('SELECT * FROM p...')
+#3 /home/uptaylor/public_html/app/server/application/models/invoice.php(624): Model->get('WHERE invoice_i...')
+#4 /home/uptaylor/public_html/app/server/application/models/invoice.php(461): Invoice->get_pa
+    code: 1
+    message: 'Uncaught exception 'phpSweetPDO\Exceptions\DbException' with message 'Database error [42000]: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1, driver error code is 1064 SQL: SELECT * FROM payments WHERE invoice_id =  Arguments: array()' in /home/uptaylor/public_html/app/server/core/database/db.recordset.class.php:88
+    Stack trace:
+    #0 /home/uptaylor/public_html/app/server/core/database/db.recordset.class.php(77): phpSweetPDO\Recordset->_refresh()
+    #1 /home/uptaylor/public_html/app/server/core/database/db.connection.class.php(96): phpSweetPDO\Recordset->__construct(Object(PDOStatement), Array)
+    #2 /home/uptaylor/public_html/app/server/core/model.class.php(115): phpSweetPDO\Connection->select('SELECT * FROM p...')
+    #3 /home/uptaylor/public_html/app/server/application/models/invoice.php(624): Model->get('WHERE invoice_i...')
+    #4 /home/uptaylor/public_html/app/server/application/models/invoice.php(461): Invoice->get_pa'
+    file: '/home/uptaylor/public_html/app/server/core/database/db.recordset.class.php'
+    line: 88

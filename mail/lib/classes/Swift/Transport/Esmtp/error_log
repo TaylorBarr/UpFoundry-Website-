@@ -1,0 +1,4 @@
+[26-Jan-2016 18:48:36 America/Detroit] PHP Fatal error:  Interface 'Swift_Transport_EsmtpHandler' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 17
+[27-Jan-2016 01:41:29 America/Detroit] PHP Fatal error:  Interface 'Swift_Transport_EsmtpHandler' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 17
+[27-Jan-2016 08:41:00 America/Detroit] PHP Fatal error:  Interface 'Swift_Transport_EsmtpHandler' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 17
+[27-Jan-2016 14:52:12 America/Detroit] PHP Fatal error:  Interface 'Swift_Transport_EsmtpHandler' not found in /home/uptaylor/public_html/mail/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 17
